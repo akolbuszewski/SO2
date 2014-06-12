@@ -131,4 +131,5 @@ public void SJF (ArrayList<Proces> procesy){
             
         }//koniec while
         System.out.println("Dla algorytmu RR: "+wyliczSredniCzas(procesy)); 
-    }//koniec RR
+    }//koniec RR 
+       /koniec
